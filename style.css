@@ -1,0 +1,35 @@
+.container {
+    width: 366px;
+    height: 420px;
+    background-color: #FAF4EF;
+    margin-left: 537px;
+    margin-top: 285px;
+    border-bottom-left-radius: 50px;
+}
+.h1 {
+    padding-top: 43px;
+    margin-left: 46.11px;
+    width: 289.48px;
+    height: 54px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+    color: #4B4B4B;
+}
+.p1 {
+    margin-left: 46.11px;
+margin-top: -37px;
+    width: 177.98px;
+    height: 41px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    color: #737373;
+    
+}
+.surati {
+    width: 231.13px;
+    height: 285px;
+    margin-left: 604px;
+    margin-top: -255px;
+}
